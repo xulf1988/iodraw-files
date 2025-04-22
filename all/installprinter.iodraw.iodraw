@@ -53,8 +53,8 @@
         </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="230" as="sourcePoint" />
-            <mxPoint x="1310" y="230" as="targetPoint" />
+            <mxPoint x="530" y="150" as="sourcePoint" />
+            <mxPoint x="1310" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-16" value="Query for remote printer information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-15">
