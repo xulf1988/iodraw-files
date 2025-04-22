@@ -57,7 +57,7 @@
             <mxPoint x="1310" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0uENOp5tjgkK4AJjavy3-12" value="Query for remote printer information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0uENOp5tjgkK4AJjavy3-11">
+        <mxCell id="0uENOp5tjgkK4AJjavy3-12" value="Query for all apps that need to be installed on the current PC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0uENOp5tjgkK4AJjavy3-11">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="61" as="offset" />
           </mxGeometry>
