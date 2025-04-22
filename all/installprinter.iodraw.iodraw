@@ -64,8 +64,8 @@
         </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-17" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="510" as="sourcePoint" />
-            <mxPoint x="530" y="510" as="targetPoint" />
+            <mxPoint x="1310" y="340" as="sourcePoint" />
+            <mxPoint x="530" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-18" value="The server returns data to the deploy app" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-17">
