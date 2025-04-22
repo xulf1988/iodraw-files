@@ -65,7 +65,7 @@
             <mxPoint x="520" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqHjfOs57PBmSMfB6Hg--9" value="The user launches deployapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iqHjfOs57PBmSMfB6Hg--8">
+        <mxCell id="iqHjfOs57PBmSMfB6Hg--9" value="Users filter remote printers that need to be installed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iqHjfOs57PBmSMfB6Hg--8">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
           </mxGeometry>
