@@ -1,0 +1,101 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="pgDbGQ9DU3AjVuNQm2y2">
+    <mxGraphModel dx="2074" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GfIyysrXIty8PyCzSwKM-1" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;deploy app&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="460" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-2" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;Auth Service&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="840" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-3" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;System Service&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-4" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;user&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="70" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="GfIyysrXIty8PyCzSwKM-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="640" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519.5" y="630" as="sourcePoint" />
+            <mxPoint x="519.5" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="630" as="sourcePoint" />
+            <mxPoint x="910" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="630" as="sourcePoint" />
+            <mxPoint x="1300" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="160" as="sourcePoint" />
+            <mxPoint x="520" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-10" value="The user launches deployapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GfIyysrXIty8PyCzSwKM-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.1558" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="210" as="sourcePoint" />
+            <mxPoint x="910" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-12" value="Access Authentication Services with local IP and Pol" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GfIyysrXIty8PyCzSwKM-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.1558" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="300" as="sourcePoint" />
+            <mxPoint x="520" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-14" value="Returns the authentication token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GfIyysrXIty8PyCzSwKM-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="390" as="sourcePoint" />
+            <mxPoint x="1300" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-16" value="To access a service with a token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GfIyysrXIty8PyCzSwKM-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.1558" relative="1" as="geometry">
+            <mxPoint x="61" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-17" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="500" as="sourcePoint" />
+            <mxPoint x="520" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GfIyysrXIty8PyCzSwKM-18" value="The server returns data to the deploy app" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GfIyysrXIty8PyCzSwKM-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
