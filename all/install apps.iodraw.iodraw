@@ -46,7 +46,7 @@
             <mxPoint x="530" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0uENOp5tjgkK4AJjavy3-10" value="Select the printers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0uENOp5tjgkK4AJjavy3-9">
+        <mxCell id="0uENOp5tjgkK4AJjavy3-10" value="Click run to start the installation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0uENOp5tjgkK4AJjavy3-9">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
           </mxGeometry>
