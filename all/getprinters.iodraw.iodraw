@@ -8,7 +8,7 @@
           <mxGeometry x="460" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GfIyysrXIty8PyCzSwKM-3" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;System Service&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="810" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GfIyysrXIty8PyCzSwKM-4" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;user&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="70" y="60" width="120" height="40" as="geometry" />
@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="GfIyysrXIty8PyCzSwKM-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1300" y="630" as="sourcePoint" />
-            <mxPoint x="1300" y="90" as="targetPoint" />
+            <mxPoint x="870" y="650" as="sourcePoint" />
+            <mxPoint x="870" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GfIyysrXIty8PyCzSwKM-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
