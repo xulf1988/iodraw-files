@@ -57,7 +57,7 @@
             <mxPoint x="1310" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byHOwVKmSQSX7VqKTJuc-16" value="To access a service with a token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-15">
+        <mxCell id="byHOwVKmSQSX7VqKTJuc-16" value="Query for remote printer information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-15">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="61" as="offset" />
           </mxGeometry>
