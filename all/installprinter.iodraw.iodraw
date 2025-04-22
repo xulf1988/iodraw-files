@@ -14,7 +14,7 @@
           <mxGeometry x="1250" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-4" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;user&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="byHOwVKmSQSX7VqKTJuc-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,7 +46,7 @@
             <mxPoint x="530" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byHOwVKmSQSX7VqKTJuc-10" value="The user launches deployapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-9">
+        <mxCell id="byHOwVKmSQSX7VqKTJuc-10" value="Enter the remote printer IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-9">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
           </mxGeometry>
