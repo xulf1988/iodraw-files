@@ -51,21 +51,10 @@
             <mxPoint x="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byHOwVKmSQSX7VqKTJuc-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="310" as="sourcePoint" />
-            <mxPoint x="530" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="byHOwVKmSQSX7VqKTJuc-14" value="Returns the authentication token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-13">
-          <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="400" as="sourcePoint" />
-            <mxPoint x="1310" y="400" as="targetPoint" />
+            <mxPoint x="530" y="230" as="sourcePoint" />
+            <mxPoint x="1310" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-16" value="To access a service with a token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-15">
