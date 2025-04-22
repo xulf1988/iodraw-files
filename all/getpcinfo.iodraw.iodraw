@@ -59,6 +59,11 @@
             <mxPoint x="530" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5EfFE5pY1yivZOSupCx6-24" value="Returns the details of the PC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5EfFE5pY1yivZOSupCx6-23">
+          <mxGeometry x="-0.1026" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
