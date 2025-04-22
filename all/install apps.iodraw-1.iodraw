@@ -42,8 +42,8 @@
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="300" as="sourcePoint" />
-            <mxPoint x="530" y="300" as="targetPoint" />
+            <mxPoint x="140" y="362" as="sourcePoint" />
+            <mxPoint x="530" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-10" value="Click run to start the installation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0uENOp5tjgkK4AJjavy3-9" vertex="1" connectable="0">
@@ -53,8 +53,8 @@
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="214" as="sourcePoint" />
-            <mxPoint x="1310" y="214" as="targetPoint" />
+            <mxPoint x="530" y="218" as="sourcePoint" />
+            <mxPoint x="1310" y="218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-12" value="Query for all apps that need to be installed on the current PC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0uENOp5tjgkK4AJjavy3-11" vertex="1" connectable="0">
@@ -64,8 +64,8 @@
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="294" as="sourcePoint" />
-            <mxPoint x="530" y="294" as="targetPoint" />
+            <mxPoint x="1310" y="298" as="sourcePoint" />
+            <mxPoint x="530" y="298" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-14" value="Returns the apps you need to install" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0uENOp5tjgkK4AJjavy3-13" vertex="1" connectable="0">
@@ -75,8 +75,8 @@
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="370" as="sourcePoint" />
-            <mxPoint x="530" y="370" as="targetPoint" />
+            <mxPoint x="140" y="432" as="sourcePoint" />
+            <mxPoint x="530" y="432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-20" value="Click cancel to cancel the installation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0uENOp5tjgkK4AJjavy3-19" vertex="1" connectable="0">
