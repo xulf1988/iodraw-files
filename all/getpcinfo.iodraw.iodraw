@@ -40,45 +40,6 @@
             <mxPoint x="1310" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="300" as="sourcePoint" />
-            <mxPoint x="530" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-10" value="Select the printers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5EfFE5pY1yivZOSupCx6-9">
-          <mxGeometry x="-0.1558" relative="1" as="geometry">
-            <mxPoint x="25" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="230" as="sourcePoint" />
-            <mxPoint x="530" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="360" as="sourcePoint" />
-            <mxPoint x="1310" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-16" value="Query the driver information for the printer selected by the user" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5EfFE5pY1yivZOSupCx6-15">
-          <mxGeometry x="-0.1558" relative="1" as="geometry">
-            <mxPoint x="61" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-17" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="450" as="sourcePoint" />
-            <mxPoint x="530" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-18" value="Returns information about the selected printer driver" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5EfFE5pY1yivZOSupCx6-17">
-          <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="160" as="sourcePoint" />
