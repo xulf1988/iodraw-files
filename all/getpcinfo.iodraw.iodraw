@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="640" as="sourcePoint" />
-            <mxPoint x="1310" y="100" as="targetPoint" />
+            <mxPoint x="929.5" y="640" as="sourcePoint" />
+            <mxPoint x="929.5" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -38,6 +38,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-20" value="The user launches deployapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5EfFE5pY1yivZOSupCx6-19">
+          <mxGeometry x="-0.1558" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EfFE5pY1yivZOSupCx6-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="170" as="sourcePoint" />
+            <mxPoint x="540" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5EfFE5pY1yivZOSupCx6-22" value="The user launches deployapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5EfFE5pY1yivZOSupCx6-21">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
           </mxGeometry>
