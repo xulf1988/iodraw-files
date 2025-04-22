@@ -46,7 +46,7 @@
             <mxPoint x="530" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byHOwVKmSQSX7VqKTJuc-10" value="Enter the remote printer IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-9">
+        <mxCell id="byHOwVKmSQSX7VqKTJuc-10" value="Select a printer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-9">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
           </mxGeometry>
@@ -64,8 +64,8 @@
         </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-17" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="340" as="sourcePoint" />
-            <mxPoint x="530" y="340" as="targetPoint" />
+            <mxPoint x="1310" y="230" as="sourcePoint" />
+            <mxPoint x="530" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="byHOwVKmSQSX7VqKTJuc-18" value="Returns the printer driver" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="byHOwVKmSQSX7VqKTJuc-17">
