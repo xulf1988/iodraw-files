@@ -51,26 +51,10 @@
             <mxPoint x="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="150" as="sourcePoint" />
-            <mxPoint x="1310" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-12" value="Query for remote printer information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5EfFE5pY1yivZOSupCx6-11">
-          <mxGeometry x="-0.1558" relative="1" as="geometry">
-            <mxPoint x="61" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="230" as="sourcePoint" />
             <mxPoint x="530" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5EfFE5pY1yivZOSupCx6-14" value="Returns a list of remote printers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5EfFE5pY1yivZOSupCx6-13">
-          <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -97,8 +81,8 @@
         </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="160" as="sourcePoint" />
-            <mxPoint x="520" y="160" as="targetPoint" />
+            <mxPoint x="140" y="160" as="sourcePoint" />
+            <mxPoint x="530" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-20" value="The user launches deployapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5EfFE5pY1yivZOSupCx6-19">
