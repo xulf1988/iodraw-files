@@ -79,7 +79,7 @@
             <mxPoint x="1310" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PEOnLPS7IiqWKoOhnTAk-2" value="Query for remote printer information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PEOnLPS7IiqWKoOhnTAk-1">
+        <mxCell id="PEOnLPS7IiqWKoOhnTAk-2" value="Query the driver information for the printer selected by the user" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PEOnLPS7IiqWKoOhnTAk-1">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="61" as="offset" />
           </mxGeometry>
