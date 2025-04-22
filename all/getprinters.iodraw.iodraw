@@ -59,11 +59,6 @@
             <mxPoint x="520" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqHjfOs57PBmSMfB6Hg--7" value="Returns the authentication token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iqHjfOs57PBmSMfB6Hg--6">
-          <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
