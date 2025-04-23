@@ -55,8 +55,8 @@
         </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-23" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=22;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="330" as="sourcePoint" />
-            <mxPoint x="530" y="330" as="targetPoint" />
+            <mxPoint x="920" y="367" as="sourcePoint" />
+            <mxPoint x="530" y="367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5EfFE5pY1yivZOSupCx6-24" value="Returns the OAServer of the PC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="5EfFE5pY1yivZOSupCx6-23" vertex="1" connectable="0">
