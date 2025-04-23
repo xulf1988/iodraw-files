@@ -101,6 +101,11 @@
             <mxPoint x="1280" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KYWLazInnagc1BRqHB8h-4" value="Get the apps installer from OAServer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYWLazInnagc1BRqHB8h-3">
+          <mxGeometry x="-0.1146" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
