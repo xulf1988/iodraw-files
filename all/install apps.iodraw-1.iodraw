@@ -45,7 +45,7 @@
         <mxCell id="0uENOp5tjgkK4AJjavy3-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="233" as="sourcePoint" />
-            <mxPoint x="950" y="233" as="targetPoint" />
+            <mxPoint x="1110" y="233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-12" value="Query for all apps that need to be&lt;div&gt;&amp;nbsp;installed on the current PC&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="0uENOp5tjgkK4AJjavy3-11" vertex="1" connectable="0">
@@ -55,7 +55,7 @@
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=22;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="317" as="sourcePoint" />
+            <mxPoint x="1110" y="317" as="sourcePoint" />
             <mxPoint x="530" y="317" as="targetPoint" />
           </mxGeometry>
         </mxCell>
