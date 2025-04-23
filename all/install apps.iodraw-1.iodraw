@@ -33,8 +33,8 @@
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="395" as="sourcePoint" />
-            <mxPoint x="530" y="395" as="targetPoint" />
+            <mxPoint x="140" y="498" as="sourcePoint" />
+            <mxPoint x="530" y="498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-10" value="Click run to start the installation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0uENOp5tjgkK4AJjavy3-9" vertex="1" connectable="0">
@@ -66,8 +66,8 @@
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="481" as="sourcePoint" />
-            <mxPoint x="530" y="481" as="targetPoint" />
+            <mxPoint x="140" y="584" as="sourcePoint" />
+            <mxPoint x="530" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-20" value="Click cancel to cancel the installation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0uENOp5tjgkK4AJjavy3-19" vertex="1" connectable="0">
