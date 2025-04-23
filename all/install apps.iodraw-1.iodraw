@@ -103,7 +103,7 @@
         </mxCell>
         <mxCell id="KYWLazInnagc1BRqHB8h-4" value="Get the apps installer from OAServer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="KYWLazInnagc1BRqHB8h-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1146" y="-1" relative="1" as="geometry">
-            <mxPoint x="98" y="-1" as="offset" />
+            <mxPoint x="127" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KYWLazInnagc1BRqHB8h-5" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=22;" parent="1" edge="1">
@@ -125,7 +125,7 @@
         </mxCell>
         <mxCell id="7II2evD53yKZh5l5N2yz-3" value="Upload PC CONIFG information after installation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="7II2evD53yKZh5l5N2yz-2">
           <mxGeometry x="-0.1146" y="-1" relative="1" as="geometry">
-            <mxPoint x="75" y="-3" as="offset" />
+            <mxPoint x="-113" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
