@@ -98,17 +98,17 @@
         <mxCell id="KYWLazInnagc1BRqHB8h-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="400" as="sourcePoint" />
-            <mxPoint x="1280" y="400" as="targetPoint" />
+            <mxPoint x="1440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KYWLazInnagc1BRqHB8h-4" value="Get the apps installer from OAServer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="KYWLazInnagc1BRqHB8h-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1146" y="-1" relative="1" as="geometry">
-            <mxPoint x="235" y="-1" as="offset" />
+            <mxPoint x="98" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KYWLazInnagc1BRqHB8h-5" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=22;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1280" y="500" as="sourcePoint" />
+            <mxPoint x="1440" y="500" as="sourcePoint" />
             <mxPoint x="530" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
