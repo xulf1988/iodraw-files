@@ -42,26 +42,10 @@
             <mxPoint x="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="233" as="sourcePoint" />
-            <mxPoint x="950" y="233" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-10" value="Query for all apps that need to be&lt;div&gt;&amp;nbsp;installed on the current PC&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="vzLP26qq_bkGjfkuhHtH-9">
-          <mxGeometry x="-0.1558" relative="1" as="geometry">
-            <mxPoint x="33" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vzLP26qq_bkGjfkuhHtH-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=22;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="950" y="317" as="sourcePoint" />
             <mxPoint x="530" y="317" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-12" value="Returns the apps you need to install" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="vzLP26qq_bkGjfkuhHtH-11">
-          <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vzLP26qq_bkGjfkuhHtH-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" edge="1" parent="1">
@@ -73,37 +57,6 @@
         <mxCell id="vzLP26qq_bkGjfkuhHtH-16" value="The user launches deployapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="vzLP26qq_bkGjfkuhHtH-15">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-17" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 30px; font-weight: 700; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;OAServer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="55" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1280" y="750" as="sourcePoint" />
-            <mxPoint x="1280" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="400" as="sourcePoint" />
-            <mxPoint x="1280" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-20" value="Get the apps installer from OAServer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="vzLP26qq_bkGjfkuhHtH-19">
-          <mxGeometry x="-0.1146" y="-1" relative="1" as="geometry">
-            <mxPoint x="75" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-21" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=22;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1280" y="500" as="sourcePoint" />
-            <mxPoint x="530" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-22" value="Returns the installation file for apps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="vzLP26qq_bkGjfkuhHtH-21">
-          <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
