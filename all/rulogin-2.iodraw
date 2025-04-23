@@ -40,57 +40,57 @@
             <mxPoint x="1300" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" parent="1" edge="1">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="160" as="sourcePoint" />
             <mxPoint x="520" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-21" value="The user launches deployapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="XPi0dnfFi1ktX86aa7lk-20" vertex="1" connectable="0">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-21" value="The user launches deployapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="XPi0dnfFi1ktX86aa7lk-20" vertex="1" connectable="0">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" parent="1" edge="1">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="210" as="sourcePoint" />
             <mxPoint x="910" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-23" value="Access Authentication Services&amp;nbsp;&lt;div style=&quot;font-size: 22px;&quot;&gt;with local IP and Pol&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="XPi0dnfFi1ktX86aa7lk-22" vertex="1" connectable="0">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-23" value="Access Authentication Services&amp;nbsp;&lt;div style=&quot;font-size: 24px;&quot;&gt;with local IP and Pol&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="XPi0dnfFi1ktX86aa7lk-22" vertex="1" connectable="0">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="25" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=22;" parent="1" edge="1">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=24;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="300" as="sourcePoint" />
             <mxPoint x="520" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-27" value="Returns the authentication token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="XPi0dnfFi1ktX86aa7lk-26" vertex="1" connectable="0">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-27" value="Returns the authentication token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="XPi0dnfFi1ktX86aa7lk-26" vertex="1" connectable="0">
           <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" parent="1" edge="1">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="390" as="sourcePoint" />
             <mxPoint x="1300" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-29" value="To access a service with a token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="XPi0dnfFi1ktX86aa7lk-28" vertex="1" connectable="0">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-29" value="To access a service with a token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="XPi0dnfFi1ktX86aa7lk-28" vertex="1" connectable="0">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
             <mxPoint x="61" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-30" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=22;" parent="1" edge="1">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-30" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=24;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1300" y="500" as="sourcePoint" />
             <mxPoint x="520" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPi0dnfFi1ktX86aa7lk-31" value="The server returns data to the deploy app" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="XPi0dnfFi1ktX86aa7lk-30" vertex="1" connectable="0">
+        <mxCell id="XPi0dnfFi1ktX86aa7lk-31" value="The server returns data to the deploy app" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" parent="XPi0dnfFi1ktX86aa7lk-30" vertex="1" connectable="0">
           <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
