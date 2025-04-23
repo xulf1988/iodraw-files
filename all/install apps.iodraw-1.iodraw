@@ -119,11 +119,11 @@
         </mxCell>
         <mxCell id="7II2evD53yKZh5l5N2yz-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="770" as="sourcePoint" />
-            <mxPoint x="1280" y="770" as="targetPoint" />
+            <mxPoint x="530" y="754" as="sourcePoint" />
+            <mxPoint x="1280" y="754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7II2evD53yKZh5l5N2yz-3" value="Get the apps installer from OAServer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="7II2evD53yKZh5l5N2yz-2">
+        <mxCell id="7II2evD53yKZh5l5N2yz-3" value="Upload PC CONIFG information after installation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="7II2evD53yKZh5l5N2yz-2">
           <mxGeometry x="-0.1146" y="-1" relative="1" as="geometry">
             <mxPoint x="75" y="-1" as="offset" />
           </mxGeometry>
