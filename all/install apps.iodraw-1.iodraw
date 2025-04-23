@@ -48,9 +48,9 @@
             <mxPoint x="950" y="233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0uENOp5tjgkK4AJjavy3-12" value="Query for all apps that need to be installed on the current PC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="0uENOp5tjgkK4AJjavy3-11" vertex="1" connectable="0">
+        <mxCell id="0uENOp5tjgkK4AJjavy3-12" value="Query for all apps that need to be&lt;div&gt;&amp;nbsp;installed on the current PC&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="0uENOp5tjgkK4AJjavy3-11" vertex="1" connectable="0">
           <mxGeometry x="-0.1558" relative="1" as="geometry">
-            <mxPoint x="61" as="offset" />
+            <mxPoint x="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uENOp5tjgkK4AJjavy3-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=22;" parent="1" edge="1">
