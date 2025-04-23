@@ -64,17 +64,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="661" as="sourcePoint" />
-            <mxPoint x="530" y="661" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vzLP26qq_bkGjfkuhHtH-14" value="Click cancel to cancel the installation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="vzLP26qq_bkGjfkuhHtH-13">
-          <mxGeometry x="-0.1558" relative="1" as="geometry">
-            <mxPoint x="25" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vzLP26qq_bkGjfkuhHtH-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="160" as="sourcePoint" />
