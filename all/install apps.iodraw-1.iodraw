@@ -112,7 +112,7 @@
             <mxPoint x="530" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYWLazInnagc1BRqHB8h-6" value="Returns the apps you need to install" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYWLazInnagc1BRqHB8h-5">
+        <mxCell id="KYWLazInnagc1BRqHB8h-6" value="Returns the installation file for apps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KYWLazInnagc1BRqHB8h-5">
           <mxGeometry x="-0.0103" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
