@@ -15,17 +15,17 @@
             <mxRectangle x="170" y="300" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fCLzYzIvBKE8vT-UfJaw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
-          <mxGeometry x="20" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-5" value="Auth Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
+          <mxGeometry x="50" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
           <mxGeometry x="160" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
-          <mxGeometry x="270" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
-          <mxGeometry x="390" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="285" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
