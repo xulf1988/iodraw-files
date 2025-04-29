@@ -43,8 +43,8 @@
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-85" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;OA Server1&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="600" y="590" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zWgzJzxDKyHO6hkEnfuK-86" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="765" y="628" width="30" height="30" as="geometry" />
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-86" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="740" y="615" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
