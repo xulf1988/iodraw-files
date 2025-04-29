@@ -16,7 +16,7 @@
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-58" value="system service" style="shape=card;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zWgzJzxDKyHO6hkEnfuK-77" value="Master OA Server" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-77" value="Master OA Server" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="310" y="370" width="130" height="108" as="geometry" />
         </mxCell>
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zWgzJzxDKyHO6hkEnfuK-57">
@@ -30,6 +30,9 @@
             <mxPoint x="60" y="460" as="sourcePoint" />
             <mxPoint x="110" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-80" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
