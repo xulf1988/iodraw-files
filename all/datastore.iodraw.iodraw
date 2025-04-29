@@ -10,8 +10,8 @@
         <mxCell id="qkQMe82843tNpyHDi1zQ-0" value="econprinter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="290" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qkQMe82843tNpyHDi1zQ-1" value="applist" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="420" width="140" height="50" as="geometry" />
+        <mxCell id="qkQMe82843tNpyHDi1zQ-1" value="applist" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="420" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qkQMe82843tNpyHDi1zQ-2" value="econ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="290" width="120" height="90" as="geometry" />
