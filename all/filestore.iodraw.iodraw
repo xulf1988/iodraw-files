@@ -36,7 +36,7 @@
             <mxPoint x="110" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zWgzJzxDKyHO6hkEnfuK-93" value="upload file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWgzJzxDKyHO6hkEnfuK-79">
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-93" value="upload file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="zWgzJzxDKyHO6hkEnfuK-79">
           <mxGeometry x="0.0033" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -73,16 +73,31 @@
             <mxPoint x="119" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-95" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;Sync&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWgzJzxDKyHO6hkEnfuK-89">
+          <mxGeometry x="-0.2066" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-90" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="480" as="sourcePoint" />
             <mxPoint x="459" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-96" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;Sync&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWgzJzxDKyHO6hkEnfuK-90">
+          <mxGeometry x="-0.0946" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zWgzJzxDKyHO6hkEnfuK-77" target="zWgzJzxDKyHO6hkEnfuK-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="359" y="504" as="sourcePoint" />
             <mxPoint x="139" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-97" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;Sync&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWgzJzxDKyHO6hkEnfuK-91">
+          <mxGeometry x="-0.1452" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
