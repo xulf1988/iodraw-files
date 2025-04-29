@@ -22,7 +22,7 @@
             <mxPoint x="640" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qkQMe82843tNpyHDi1zQ-7" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;regular sync&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="qkQMe82843tNpyHDi1zQ-4">
+        <mxCell id="qkQMe82843tNpyHDi1zQ-7" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; text-align: start; text-wrap: wrap;&quot;&gt;regular sync&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;rotation=90;" vertex="1" connectable="0" parent="qkQMe82843tNpyHDi1zQ-4">
           <mxGeometry x="0.0148" y="1" relative="1" as="geometry">
             <mxPoint x="-8" y="-33" as="offset" />
           </mxGeometry>
