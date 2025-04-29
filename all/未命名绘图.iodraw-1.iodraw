@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fCLzYzIvBKE8vT-UfJaw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-2" value="RU Subsystems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="660" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="300" width="80" height="410" as="geometry" />
+          <mxGeometry x="70" y="300" width="80" height="340" as="geometry" />
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="300" width="560" height="340" as="geometry">
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-5" value="Auth Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
-          <mxGeometry x="300" y="230" width="240" height="80" as="geometry" />
+          <mxGeometry x="300" y="190" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-7" value="Biz Security" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
           <mxGeometry x="30" y="40" width="230" height="80" as="geometry" />
