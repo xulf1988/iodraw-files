@@ -1,0 +1,33 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="1P_xxLftDUmPoStYU5TO">
+    <mxGraphModel dx="2074" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-2" value="RU Subsystems" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="70" y="210" width="660" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-3" value="Application &amp;amp; Component" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="70" y="300" width="80" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-4" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="300" width="550" height="340" as="geometry">
+            <mxRectangle x="170" y="300" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-5" value="Auth Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=28;" parent="fCLzYzIvBKE8vT-UfJaw-4" vertex="1">
+          <mxGeometry x="291" y="204" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-7" value="Biz Security" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=28;" parent="fCLzYzIvBKE8vT-UfJaw-4" vertex="1">
+          <mxGeometry x="21" y="54" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-8" value="Gateway Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=28;" parent="fCLzYzIvBKE8vT-UfJaw-4" vertex="1">
+          <mxGeometry x="291" y="54" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-6" value="System Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=28;" parent="fCLzYzIvBKE8vT-UfJaw-4" vertex="1">
+          <mxGeometry x="21" y="204" width="230" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
