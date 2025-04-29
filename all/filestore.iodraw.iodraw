@@ -36,7 +36,7 @@
             <mxPoint x="110" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zWgzJzxDKyHO6hkEnfuK-93" value="upload file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="zWgzJzxDKyHO6hkEnfuK-79" vertex="1" connectable="0">
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-93" value="upload Installation file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="zWgzJzxDKyHO6hkEnfuK-79" vertex="1" connectable="0">
           <mxGeometry x="0.0033" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
