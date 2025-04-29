@@ -25,7 +25,7 @@
             <mxPoint x="290" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zWgzJzxDKyHO6hkEnfuK-92" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWgzJzxDKyHO6hkEnfuK-78">
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-92" value="record" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zWgzJzxDKyHO6hkEnfuK-78">
           <mxGeometry x="-0.2704" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
