@@ -18,7 +18,7 @@
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-5" value="Auth Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
           <mxGeometry x="50" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fCLzYzIvBKE8vT-UfJaw-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-7" value="Biz Security" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
           <mxGeometry x="160" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-6" value="System Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
