@@ -22,10 +22,10 @@
           <mxGeometry x="50" y="40" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-8" value="Gateway Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
-          <mxGeometry x="310" y="260" width="240" height="60" as="geometry" />
+          <mxGeometry x="290" y="40" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fCLzYzIvBKE8vT-UfJaw-6" value="System Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="110" y="480" width="240" height="70" as="geometry" />
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-6" value="System Service" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;" vertex="1" parent="fCLzYzIvBKE8vT-UfJaw-4">
+          <mxGeometry x="50" y="215" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
