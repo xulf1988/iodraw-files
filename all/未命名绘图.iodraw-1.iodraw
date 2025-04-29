@@ -7,11 +7,11 @@
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-2" value="RU Subsystems" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="660" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fCLzYzIvBKE8vT-UfJaw-3" value="Application &amp;amp; Component" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="fCLzYzIvBKE8vT-UfJaw-3" value="Application &amp;amp; Component" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="70" y="300" width="80" height="340" as="geometry" />
         </mxCell>
         <mxCell id="fCLzYzIvBKE8vT-UfJaw-4" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="560" height="340" as="geometry">
+          <mxGeometry x="180" y="300" width="550" height="340" as="geometry">
             <mxRectangle x="170" y="300" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
