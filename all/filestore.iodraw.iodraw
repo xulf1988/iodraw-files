@@ -76,6 +76,9 @@
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-17" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;query&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zWgzJzxDKyHO6hkEnfuK-18" value="applist table" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="660" width="150" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
