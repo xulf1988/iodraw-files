@@ -64,7 +64,7 @@
             <mxPoint x="240" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qkQMe82843tNpyHDi1zQ-20" value="query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;" vertex="1" connectable="0" parent="qkQMe82843tNpyHDi1zQ-19">
+        <mxCell id="qkQMe82843tNpyHDi1zQ-20" value="query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;fontStyle=0" vertex="1" connectable="0" parent="qkQMe82843tNpyHDi1zQ-19">
           <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -74,6 +74,9 @@
             <mxPoint x="210" y="560" as="sourcePoint" />
             <mxPoint x="260" y="510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qkQMe82843tNpyHDi1zQ-22" value="query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="219.9990568479406" y="310.0034899004859" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
