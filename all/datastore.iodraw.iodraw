@@ -22,6 +22,11 @@
             <mxPoint x="640" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qkQMe82843tNpyHDi1zQ-7" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 18px; text-align: start; text-wrap: wrap; background-color: rgb(224, 255, 239);&quot;&gt;regular&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qkQMe82843tNpyHDi1zQ-4">
+          <mxGeometry x="0.0148" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qkQMe82843tNpyHDi1zQ-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qkQMe82843tNpyHDi1zQ-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="340" as="sourcePoint" />
