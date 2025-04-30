@@ -38,9 +38,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QjKYL2YR30tFJ84jjiu4-6" value="data sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="573.9809392453913" y="362.0498398625157" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
