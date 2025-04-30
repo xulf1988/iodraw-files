@@ -41,8 +41,11 @@
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AlByISi9zwh1Qux8BGAM-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="570" as="sourcePoint" />
-            <mxPoint x="520" y="520" as="targetPoint" />
+            <mxPoint x="440" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Tcx1IJnmO87TZ5tDYH5o-2" value="Data cleansing conversion" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
