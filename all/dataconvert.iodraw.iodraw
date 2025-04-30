@@ -22,9 +22,9 @@
             <mxPoint x="210" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QjKYL2YR30tFJ84jjiu4-7" value="extraction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="QjKYL2YR30tFJ84jjiu4-2" vertex="1" connectable="0">
+        <mxCell id="QjKYL2YR30tFJ84jjiu4-7" value="extraction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="QjKYL2YR30tFJ84jjiu4-2" vertex="1" connectable="0">
           <mxGeometry x="-0.1528" relative="1" as="geometry">
-            <mxPoint x="88" y="70" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QjKYL2YR30tFJ84jjiu4-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontSize=16;" parent="1" target="AlByISi9zwh1Qux8BGAM-3" edge="1">
