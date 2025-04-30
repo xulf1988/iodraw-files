@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-4" value="record log" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="770" width="160" height="70" as="geometry" />
+          <mxGeometry x="150" y="620" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
