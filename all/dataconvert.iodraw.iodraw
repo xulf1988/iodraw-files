@@ -29,7 +29,7 @@
         </mxCell>
         <mxCell id="QjKYL2YR30tFJ84jjiu4-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontSize=16;" parent="1" target="AlByISi9zwh1Qux8BGAM-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="350" as="sourcePoint" />
+            <mxPoint x="340" y="890" as="sourcePoint" />
             <mxPoint x="530" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
