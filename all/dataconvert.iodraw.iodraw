@@ -44,7 +44,7 @@
             <mxPoint x="440" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tcx1IJnmO87TZ5tDYH5o-2" value="Data cleansing conversion" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tcx1IJnmO87TZ5tDYH5o-2" value="data clean conversion" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="530" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
