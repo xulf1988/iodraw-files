@@ -61,7 +61,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tcx1IJnmO87TZ5tDYH5o-11" value="valid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tcx1IJnmO87TZ5tDYH5o-11" value="valid clean&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tcx1IJnmO87TZ5tDYH5o-11">
