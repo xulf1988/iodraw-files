@@ -49,12 +49,12 @@
         </mxCell>
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="410" as="sourcePoint" />
-            <mxPoint x="450" y="540" as="targetPoint" />
+            <mxPoint x="440" y="600" as="sourcePoint" />
+            <mxPoint x="440" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-4" value="data clean conversion" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="540" width="160" height="70" as="geometry" />
+          <mxGeometry x="360" y="730" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
