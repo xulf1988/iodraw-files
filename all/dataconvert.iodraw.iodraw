@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-4" value="record log" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="120" y="735" width="120" height="70" as="geometry" />
+          <mxGeometry x="120" y="735" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="Tcx1IJnmO87TZ5tDYH5o-11" target="Tcx1IJnmO87TZ5tDYH5o-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="QIt1_Qx0hrTLbrc2n9tK-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Timed tasks&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QIt1_Qx0hrTLbrc2n9tK-2" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Timed tasks&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="675" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
