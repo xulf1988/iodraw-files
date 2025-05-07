@@ -11,7 +11,7 @@
           <mxGeometry x="400" y="300" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AlByISi9zwh1Qux8BGAM-3" value="RU Maria" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="380" y="910" width="120" height="80" as="geometry" />
+          <mxGeometry x="377" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AlByISi9zwh1Qux8BGAM-5" value="ECON DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="414" y="130" width="60" height="30" as="geometry" />
@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-11" value="valid&amp;nbsp;&lt;div style=&quot;font-size: 16px;&quot;&gt;clean&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;exception&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="340" y="720" width="200" height="80" as="geometry" />
+          <mxGeometry x="339" y="720" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Tcx1IJnmO87TZ5tDYH5o-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,14 +61,14 @@
         </mxCell>
         <mxCell id="Tcx1IJnmO87TZ5tDYH5o-13" value="inset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="Tcx1IJnmO87TZ5tDYH5o-12" vertex="1" connectable="0">
           <mxGeometry x="0.1077" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QIt1_Qx0hrTLbrc2n9tK-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Timed tasks&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QIt1_Qx0hrTLbrc2n9tK-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;record log&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="735" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="731" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
