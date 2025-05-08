@@ -162,7 +162,7 @@
         <mxCell id="xDlU10B_ZIq8-awZrAm2-11" value="..." style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="xDlU10B_ZIq8-awZrAm2-9">
           <mxGeometry y="86" width="190" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="xDlU10B_ZIq8-awZrAm2-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xDlU10B_ZIq8-awZrAm2-12">
+        <mxCell id="xDlU10B_ZIq8-awZrAm2-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xDlU10B_ZIq8-awZrAm2-16" target="xDlU10B_ZIq8-awZrAm2-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="565" as="sourcePoint" />
             <mxPoint x="696" y="536" as="targetPoint" />
@@ -173,8 +173,8 @@
             <mxPoint x="15" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xDlU10B_ZIq8-awZrAm2-16" value="scripts on master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="xDlU10B_ZIq8-awZrAm2-16" value="scripts on master" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="310" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
