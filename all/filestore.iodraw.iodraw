@@ -16,9 +16,6 @@
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-58" value="system service" style="shape=card;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="120" y="150" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="xDlU10B_ZIq8-awZrAm2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zWgzJzxDKyHO6hkEnfuK-77" target="xDlU10B_ZIq8-awZrAm2-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-77" value="Master OA Server" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="310" y="370" width="130" height="108" as="geometry" />
         </mxCell>
@@ -121,10 +118,10 @@
         <mxCell id="xDlU10B_ZIq8-awZrAm2-1" value="scripts" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="340" y="540" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xDlU10B_ZIq8-awZrAm2-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xDlU10B_ZIq8-awZrAm2-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.595;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zWgzJzxDKyHO6hkEnfuK-77" target="xDlU10B_ZIq8-awZrAm2-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="540" as="sourcePoint" />
-            <mxPoint x="380" y="480" as="targetPoint" />
+            <mxPoint x="330" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xDlU10B_ZIq8-awZrAm2-4" value="copy file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xDlU10B_ZIq8-awZrAm2-2">
