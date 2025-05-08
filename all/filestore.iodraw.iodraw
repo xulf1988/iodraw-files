@@ -60,13 +60,13 @@
           <mxGeometry x="56" y="1011" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nmCzlbGtCFn2Ff43he-i-2" value="" style="image;html=1;image=img/lib/clip_art/computers/iMac_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="237" y="1011" width="80" height="80" as="geometry" />
+          <mxGeometry x="250" y="1011" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nmCzlbGtCFn2Ff43he-i-3" value="" style="image;html=1;image=img/lib/clip_art/computers/iMac_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="437" y="1011" width="80" height="80" as="geometry" />
+          <mxGeometry x="436" y="1011" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nmCzlbGtCFn2Ff43he-i-4" value="" style="image;html=1;image=img/lib/clip_art/computers/iMac_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="596" y="1011" width="80" height="80" as="geometry" />
+          <mxGeometry x="631" y="1011" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nmCzlbGtCFn2Ff43he-i-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nmCzlbGtCFn2Ff43he-i-1" edge="1" target="zWgzJzxDKyHO6hkEnfuK-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
