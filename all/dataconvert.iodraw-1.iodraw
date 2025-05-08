@@ -75,12 +75,9 @@
         <mxCell id="QIt1_Qx0hrTLbrc2n9tK-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;record log&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="735" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RNvkeV5Ya53ickdeE4H8-1" value="&lt;font face=&quot;Roboto, sans-serif&quot; color=&quot;#0053a9&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(245, 245, 245);&quot;&gt;convert&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379.5" y="910" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RNvkeV5Ya53ickdeE4H8-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNvkeV5Ya53ickdeE4H8-1" target="AlByISi9zwh1Qux8BGAM-3">
+        <mxCell id="RNvkeV5Ya53ickdeE4H8-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="AlByISi9zwh1Qux8BGAM-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="1090" as="sourcePoint" />
+            <mxPoint x="439.5" y="970" as="sourcePoint" />
             <mxPoint x="310" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
