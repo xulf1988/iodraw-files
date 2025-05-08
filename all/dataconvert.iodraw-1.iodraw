@@ -81,7 +81,7 @@
             <mxPoint x="310" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RNvkeV5Ya53ickdeE4H8-3" value="convert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RNvkeV5Ya53ickdeE4H8-3" value="data convert" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="380" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
