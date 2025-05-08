@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-80" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;OA Server1&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="56" y="820" width="100" height="90" as="geometry" />
+          <mxGeometry x="46" y="680" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zWgzJzxDKyHO6hkEnfuK-83" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;OA Server2&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="236" y="820" width="100" height="90" as="geometry" />
@@ -135,7 +135,7 @@
             <mxPoint x="210" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xDlU10B_ZIq8-awZrAm2-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.408;exitY=0.958;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="xDlU10B_ZIq8-awZrAm2-1" target="zWgzJzxDKyHO6hkEnfuK-83">
+        <mxCell id="xDlU10B_ZIq8-awZrAm2-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.4;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xDlU10B_ZIq8-awZrAm2-1" target="zWgzJzxDKyHO6hkEnfuK-83">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="630" as="sourcePoint" />
             <mxPoint x="116" y="830" as="targetPoint" />
