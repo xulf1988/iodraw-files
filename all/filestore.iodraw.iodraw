@@ -68,9 +68,9 @@
         <mxCell id="nmCzlbGtCFn2Ff43he-i-4" value="" style="image;html=1;image=img/lib/clip_art/computers/iMac_128x128.png" parent="1" vertex="1">
           <mxGeometry x="631" y="900" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nmCzlbGtCFn2Ff43he-i-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zWgzJzxDKyHO6hkEnfuK-80" target="nmCzlbGtCFn2Ff43he-i-1" edge="1">
+        <mxCell id="nmCzlbGtCFn2Ff43he-i-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="nmCzlbGtCFn2Ff43he-i-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="187" y="1020" as="sourcePoint" />
+            <mxPoint x="120" y="800" as="sourcePoint" />
             <mxPoint x="140" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
