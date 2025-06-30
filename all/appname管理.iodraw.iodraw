@@ -15,7 +15,7 @@
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-15" value="选择econ name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="113" y="514" width="177.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-17" value="选择app" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-17" value="选择appname" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="113" y="662" width="177.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-17" target="p0FB3cRxGRN8nVj5jwpv-41" edge="1">
@@ -83,12 +83,12 @@
             <mxPoint x="300" y="682" as="sourcePoint" />
             <mxPoint x="300.5" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="680" />
-              <mxPoint x="690" y="220" />
+              <mxPoint x="680" y="670" />
+              <mxPoint x="660" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g1ao4rDiBsOl4BQJTRfF-10" value="选择" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g1ao4rDiBsOl4BQJTRfF-7">
+        <mxCell id="g1ao4rDiBsOl4BQJTRfF-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g1ao4rDiBsOl4BQJTRfF-7">
           <mxGeometry x="0.0211" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
