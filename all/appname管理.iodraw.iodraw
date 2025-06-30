@@ -56,7 +56,10 @@
           <mxGeometry x="470" y="505" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-15" value="appname管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="123.25" y="100" width="177.5" height="40" as="geometry" />
+          <mxGeometry x="113.25" y="270" width="177.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-15" target="p0FB3cRxGRN8nVj5jwpv-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
