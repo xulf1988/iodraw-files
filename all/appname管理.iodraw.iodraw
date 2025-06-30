@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-41" value="插入appname_mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="119" y="821" width="168" height="53" as="geometry" />
+          <mxGeometry x="118" y="821" width="168" height="53" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-43" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="137.75" y="954" width="129.5" height="60" as="geometry" />
@@ -77,9 +77,6 @@
             <mxPoint x="212" y="130" as="sourcePoint" />
             <mxPoint x="212" y="210" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="g1ao4rDiBsOl4BQJTRfF-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;package pool管理中创建的app&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290.5" y="562" width="269.25" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
