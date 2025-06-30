@@ -16,12 +16,12 @@
           <mxGeometry x="113.25" y="270" width="177.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-17" value="选择appname" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="113" y="450" width="177.5" height="40" as="geometry" />
+          <mxGeometry x="113" y="532" width="177.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-17" target="p0FB3cRxGRN8nVj5jwpv-41" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="584" as="sourcePoint" />
-            <mxPoint x="202" y="607" as="targetPoint" />
+            <mxPoint x="200" y="666" as="sourcePoint" />
+            <mxPoint x="202" y="689" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-25" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="p0FB3cRxGRN8nVj5jwpv-22" edge="1">
@@ -44,21 +44,24 @@
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-38" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="p0FB3cRxGRN8nVj5jwpv-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="360" as="sourcePoint" />
-            <mxPoint x="212" y="280" as="targetPoint" />
+            <mxPoint x="200" y="442" as="sourcePoint" />
+            <mxPoint x="212" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-41" value="插入appname_mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="118" y="609" width="168" height="53" as="geometry" />
+          <mxGeometry x="118" y="691" width="168" height="53" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-43" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="136.75" y="742" width="129.5" height="60" as="geometry" />
+          <mxGeometry x="136.75" y="824" width="129.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-44" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-41" target="p0FB3cRxGRN8nVj5jwpv-43" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="672" as="sourcePoint" />
-            <mxPoint x="250" y="789" as="targetPoint" />
+            <mxPoint x="250" y="754" as="sourcePoint" />
+            <mxPoint x="250" y="871" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g1ao4rDiBsOl4BQJTRfF-1" value="选择econ name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="112.75" y="360" width="177.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
