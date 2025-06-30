@@ -62,7 +62,7 @@
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-31" value="进入RU管理系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="126" y="-50" width="152" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-34" value="筛选在econapps存在并且在pc_app_mapping不存在的数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-34" value="筛选在econapps存并且在pc_app_mapping不存在的数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
