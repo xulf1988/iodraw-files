@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-41" value="插入appinfo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="102" y="790" width="200" height="40" as="geometry" />
+          <mxGeometry x="118" y="810" width="168" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
