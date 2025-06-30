@@ -78,6 +78,9 @@
             <mxPoint x="212" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g1ao4rDiBsOl4BQJTRfF-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;筛选在econapps存并且在&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;appname_mapping&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;不存在的数据&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300.5" y="424" width="269.25" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
