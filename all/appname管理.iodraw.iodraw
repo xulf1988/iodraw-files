@@ -30,9 +30,9 @@
             <mxPoint x="430" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-20" value="appname与app_info存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-19">
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-20" value="appname与app_info存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-19">
           <mxGeometry x="0.0368" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="58" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
