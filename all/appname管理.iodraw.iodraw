@@ -18,7 +18,7 @@
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-15" value="选择econ name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="113.25" y="270" width="177.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-17" value="填写appname" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-17" value="选择appname" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="113" y="450" width="177.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-22" value="插入appinfo、appname_mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
