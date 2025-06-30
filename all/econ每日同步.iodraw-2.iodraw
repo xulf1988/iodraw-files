@@ -80,15 +80,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YizoVXhZxFbRfHRFwxQb-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dSjXitVwNLHwwSVO1j5B-2">
+        <mxCell id="YizoVXhZxFbRfHRFwxQb-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dSjXitVwNLHwwSVO1j5B-2" target="YizoVXhZxFbRfHRFwxQb-2">
           <mxGeometry x="0.1429" y="43" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="340" y="840" as="targetPoint" />
             <mxPoint x="341" y="730" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="341" y="730" />
-              <mxPoint x="341" y="790" />
-              <mxPoint x="340" y="790" />
+              <mxPoint x="200" y="730" />
+              <mxPoint x="200" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
