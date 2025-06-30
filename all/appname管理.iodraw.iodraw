@@ -44,21 +44,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-27" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="770" as="sourcePoint" />
-            <mxPoint x="200" y="910" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="202" y="860" />
-              <mxPoint x="210" y="860" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-28" value="不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-27">
-          <mxGeometry x="0.0224" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-31" value="进入RU管理系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="112" y="-50" width="179" height="60" as="geometry" />
         </mxCell>
@@ -75,6 +60,17 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="212" y="140" as="sourcePoint" />
             <mxPoint x="212" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-39" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="662" as="sourcePoint" />
+            <mxPoint x="520" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-40" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-39">
+          <mxGeometry x="0.0224" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
