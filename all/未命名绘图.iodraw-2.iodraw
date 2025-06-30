@@ -74,13 +74,8 @@
             <mxPoint x="640" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSjXitVwNLHwwSVO1j5B-10" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSjXitVwNLHwwSVO1j5B-9">
-          <mxGeometry x="0.1238" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dSjXitVwNLHwwSVO1j5B-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSjXitVwNLHwwSVO1j5B-9">
-          <mxGeometry x="0.1111" y="-9" relative="1" as="geometry">
+        <mxCell id="dSjXitVwNLHwwSVO1j5B-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSjXitVwNLHwwSVO1j5B-9">
+          <mxGeometry x="0.0889" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
