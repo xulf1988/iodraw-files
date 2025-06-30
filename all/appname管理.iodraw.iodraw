@@ -12,7 +12,7 @@
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-2" value="appname管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="113.25" y="90" width="177.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-8" value="pc_app_mapping中&lt;div style=&quot;font-size: 16px;&quot;&gt;是否存在映射关系&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=16;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-8" value="&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;appname在app_info中是否存在&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=16;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="750" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-15" value="选择econ name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -38,10 +38,10 @@
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-22" value="插入appname_mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="450" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-17">
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="584" as="sourcePoint" />
-            <mxPoint x="499" y="584" as="targetPoint" />
+            <mxPoint x="200" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;appname在app_info中存在&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-23">
