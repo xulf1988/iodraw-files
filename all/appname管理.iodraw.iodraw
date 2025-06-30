@@ -21,9 +21,6 @@
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-17" value="填写appname" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="113" y="450" width="177.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-18" value="pc_app_mapping中&lt;div style=&quot;font-size: 16px;&quot;&gt;是否存在映射关系&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=16;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="840" width="290" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-22" value="插入appinfo、appname_mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="635" width="200" height="40" as="geometry" />
         </mxCell>
@@ -62,16 +59,19 @@
             <mxPoint x="212" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-39" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-39" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="322" y="662" as="sourcePoint" />
-            <mxPoint x="520" y="665" as="targetPoint" />
+            <mxPoint x="202" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-40" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-39">
           <mxGeometry x="0.0224" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-41" value="插入appinfo、appname_mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="645" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
