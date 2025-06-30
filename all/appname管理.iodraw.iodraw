@@ -26,8 +26,8 @@
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-19" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="490" as="sourcePoint" />
-            <mxPoint x="499.25" y="490" as="targetPoint" />
+            <mxPoint x="310" y="469.5" as="sourcePoint" />
+            <mxPoint x="510" y="469.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
