@@ -9,6 +9,11 @@
             <mxPoint x="202.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g1ao4rDiBsOl4BQJTRfF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-2" value="appname Map管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="113.25" y="90" width="177.5" height="40" as="geometry" />
         </mxCell>
@@ -61,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g1ao4rDiBsOl4BQJTRfF-1" value="package管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="118" y="400" width="177.5" height="40" as="geometry" />
+          <mxGeometry x="560" y="30" width="177.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
