@@ -9,11 +9,6 @@
             <mxPoint x="202.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-0">
-          <mxGeometry x="-0.0435" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-2" value="appname管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="113.25" y="90" width="177.5" height="40" as="geometry" />
         </mxCell>
