@@ -36,7 +36,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-22" value="插入appname_mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="450" width="177.5" height="40" as="geometry" />
+          <mxGeometry x="590" y="450" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="301" y="480" as="sourcePoint" />
+            <mxPoint x="600" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;appname在app_info中存在&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-23">
+          <mxGeometry x="0.0482" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
