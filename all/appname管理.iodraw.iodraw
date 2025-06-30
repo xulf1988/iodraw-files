@@ -44,7 +44,7 @@
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-31" value="进入RU管理系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="112" y="-50" width="179" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p0FB3cRxGRN8nVj5jwpv-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;筛选在econapps存并且在pc_app_mapping不存在的数据&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;筛选在econapps存并且在&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;appname_mapping&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;不存在的数据&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290.75" y="170" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-37" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=16;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p0FB3cRxGRN8nVj5jwpv-31">
