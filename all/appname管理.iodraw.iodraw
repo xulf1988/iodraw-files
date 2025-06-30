@@ -63,7 +63,13 @@
           <mxGeometry x="126" y="-50" width="152" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-34" value="筛选在econapps存并且在pc_app_mapping不存在的数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="230" width="230" height="110" as="geometry" />
+          <mxGeometry x="430" y="180" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="170" as="sourcePoint" />
+            <mxPoint x="450" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
