@@ -74,7 +74,10 @@
           <mxGeometry x="118" y="787" width="168" height="53" as="geometry" />
         </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-42" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520.5" y="770" width="179" height="60" as="geometry" />
+          <mxGeometry x="545.25" y="780" width="129.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-43" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="555.25" y="790" width="129.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
