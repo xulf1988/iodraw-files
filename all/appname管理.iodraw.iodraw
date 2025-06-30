@@ -21,6 +21,9 @@
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-17" value="填写app appname" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="113.25" y="450" width="177.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="p0FB3cRxGRN8nVj5jwpv-18" value="pc_app_mapping中&lt;div style=&quot;font-size: 16px;&quot;&gt;是否存在映射关系&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=16;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="760" width="290" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
