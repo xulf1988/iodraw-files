@@ -9,16 +9,6 @@
             <mxPoint x="202.25" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tezfa3wCPlchsihVim33-0" value="新增" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-0">
-          <mxGeometry x="-0.1286" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tezfa3wCPlchsihVim33-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0FB3cRxGRN8nVj5jwpv-0">
-          <mxGeometry x="-0.1143" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p0FB3cRxGRN8nVj5jwpv-2" value="appname Map管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="113" y="334" width="177.5" height="40" as="geometry" />
         </mxCell>
