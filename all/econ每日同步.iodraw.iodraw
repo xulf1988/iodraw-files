@@ -39,7 +39,7 @@
           <mxGeometry x="152.5" y="690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSjXitVwNLHwwSVO1j5B-19" value="pc_app_mapping中&lt;div style=&quot;font-size: 16px;&quot;&gt;是否存在映射关系&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=16;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="132.5" y="490" width="160" height="80" as="geometry" />
+          <mxGeometry x="30" y="490" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dSjXitVwNLHwwSVO1j5B-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dSjXitVwNLHwwSVO1j5B-19" target="dSjXitVwNLHwwSVO1j5B-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -52,7 +52,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSjXitVwNLHwwSVO1j5B-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="dSjXitVwNLHwwSVO1j5B-24" edge="1">
+        <mxCell id="dSjXitVwNLHwwSVO1j5B-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="dSjXitVwNLHwwSVO1j5B-24" edge="1" source="dSjXitVwNLHwwSVO1j5B-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="510" as="sourcePoint" />
             <mxPoint x="470" y="440" as="targetPoint" />
