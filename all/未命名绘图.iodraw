@@ -90,8 +90,19 @@
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-33" value="插入upload_status" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1370" y="610" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MRh1FFa8LJeFE2VeLIpw-35" target="MRh1FFa8LJeFE2VeLIpw-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MRh1FFa8LJeFE2VeLIpw-38">
+          <mxGeometry x="-0.0444" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-35" value="是否成功？" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="750" width="80" height="80" as="geometry" />
+          <mxGeometry x="740" y="750" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-37" value="" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
