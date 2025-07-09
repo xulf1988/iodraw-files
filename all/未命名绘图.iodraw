@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-16" value="推送MaterOAServer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="890" width="200" height="60" as="geometry" />
+          <mxGeometry x="400" y="484" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -102,7 +102,7 @@
             <mxPoint x="400" y="514" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MRh1FFa8LJeFE2VeLIpw-23">
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-24" value="异步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MRh1FFa8LJeFE2VeLIpw-23">
           <mxGeometry x="0.1611" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
