@@ -129,8 +129,8 @@
             <mxPoint x="190" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-46" value="" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="755" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-46" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;插入upload_status&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="630" width="195" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
