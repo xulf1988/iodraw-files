@@ -117,7 +117,13 @@
           <mxGeometry x="1000" y="958" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-43" value="更新file_info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="780" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="710" as="sourcePoint" />
+            <mxPoint x="190" y="790" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
