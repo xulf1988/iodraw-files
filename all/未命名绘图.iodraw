@@ -18,7 +18,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QszWPH2TOcp4ChCvfPAO-1" value="服务器文件共享目录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QszWPH2TOcp4ChCvfPAO-1" value="服务器文件共享目录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="240" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QszWPH2TOcp4ChCvfPAO-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QszWPH2TOcp4ChCvfPAO-5">
