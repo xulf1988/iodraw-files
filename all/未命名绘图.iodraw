@@ -76,13 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-25" value="更新file_info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="760" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MRh1FFa8LJeFE2VeLIpw-16" target="MRh1FFa8LJeFE2VeLIpw-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="806" as="sourcePoint" />
-            <mxPoint x="440" y="756" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1050" y="610" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MRh1FFa8LJeFE2VeLIpw-30" target="MRh1FFa8LJeFE2VeLIpw-1">
           <mxGeometry relative="1" as="geometry" />
@@ -90,8 +84,8 @@
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-30" value="表单提交" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="500" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-33" value="插入" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1020" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-33" value="插入upload_status" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1370" y="610" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
