@@ -72,6 +72,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MRh1FFa8LJeFE2VeLIpw-25" target="MRh1FFa8LJeFE2VeLIpw-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-25" value="更新file_info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="760" width="200" height="60" as="geometry" />
         </mxCell>
@@ -86,6 +89,9 @@
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-30" value="表单提交" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="500" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-33" value="" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
