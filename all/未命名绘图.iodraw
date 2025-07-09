@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;create package&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="120" width="200" height="60" as="geometry" />
+          <mxGeometry x="80" y="90" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QszWPH2TOcp4ChCvfPAO-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -30,10 +30,10 @@
         <mxCell id="QszWPH2TOcp4ChCvfPAO-5" value="插入file_info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="380" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QszWPH2TOcp4ChCvfPAO-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QszWPH2TOcp4ChCvfPAO-5">
+        <mxCell id="QszWPH2TOcp4ChCvfPAO-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QszWPH2TOcp4ChCvfPAO-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="179.5" y="460" as="sourcePoint" />
-            <mxPoint x="180" y="540" as="targetPoint" />
+            <mxPoint x="180" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
