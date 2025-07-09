@@ -90,7 +90,7 @@
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-33" value="插入upload_status" style="whiteSpace=wrap;html=1;fontSize=20;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1370" y="610" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-35" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-35" value="是否成功？" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="750" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
