@@ -50,7 +50,7 @@
             <mxPoint x="180" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-5" value="插入app_info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-5" value="插入os_app_mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="630" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MRh1FFa8LJeFE2VeLIpw-5">
