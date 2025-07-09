@@ -78,7 +78,7 @@
             <mxPoint x="450" y="756" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-30" value="文件框上传" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-30" value="提交" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="500" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
