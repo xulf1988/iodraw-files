@@ -21,7 +21,7 @@
         <mxCell id="QszWPH2TOcp4ChCvfPAO-1" value="服务器文件共享目录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="240" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QszWPH2TOcp4ChCvfPAO-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QszWPH2TOcp4ChCvfPAO-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QszWPH2TOcp4ChCvfPAO-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="179.5" y="300" as="sourcePoint" />
             <mxPoint x="179.5" y="360" as="targetPoint" />
@@ -29,6 +29,11 @@
         </mxCell>
         <mxCell id="QszWPH2TOcp4ChCvfPAO-4" value="上传文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QszWPH2TOcp4ChCvfPAO-3">
           <mxGeometry x="-0.2333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QszWPH2TOcp4ChCvfPAO-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QszWPH2TOcp4ChCvfPAO-3">
+          <mxGeometry x="-0.2003" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
