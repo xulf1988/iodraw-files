@@ -79,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-25" value="更新file_info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1050" y="610" width="200" height="60" as="geometry" />
+          <mxGeometry x="1010" y="610" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MRh1FFa8LJeFE2VeLIpw-30" target="MRh1FFa8LJeFE2VeLIpw-1">
           <mxGeometry relative="1" as="geometry" />
@@ -101,7 +101,7 @@
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MRh1FFa8LJeFE2VeLIpw-35" target="MRh1FFa8LJeFE2VeLIpw-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MRh1FFa8LJeFE2VeLIpw-41">
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-42" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MRh1FFa8LJeFE2VeLIpw-41">
           <mxGeometry x="0.0667" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
