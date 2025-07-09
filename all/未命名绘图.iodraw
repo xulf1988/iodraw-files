@@ -114,7 +114,7 @@
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MRh1FFa8LJeFE2VeLIpw-37" target="MRh1FFa8LJeFE2VeLIpw-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-37" value="删除共享目录的临时文件" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-37" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;插入upload_status&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="770" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MRh1FFa8LJeFE2VeLIpw-40" value="" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -129,7 +129,7 @@
             <mxPoint x="190" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRh1FFa8LJeFE2VeLIpw-46" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;插入upload_status&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MRh1FFa8LJeFE2VeLIpw-46" value="删除共享目录的临时文件" style="whiteSpace=wrap;html=1;fontSize=17;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="717" y="630" width="195" height="60" as="geometry" />
         </mxCell>
       </root>
