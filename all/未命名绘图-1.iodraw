@@ -88,10 +88,10 @@
         <mxCell id="p9VnJ7BZUf3yhAYPfaVG-3" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-6" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-6" value="隔间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-7" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-7" value="小组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
