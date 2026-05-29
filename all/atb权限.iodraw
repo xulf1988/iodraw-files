@@ -49,9 +49,6 @@
         <mxCell id="p9VnJ7BZUf3yhAYPfaVG-28" value="隔间类型分为gc和sc&lt;div&gt;gc：一般用户&lt;/div&gt;&lt;div&gt;sc：特殊用户&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="310" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ZK4pHbHnZNPGhY-wRMpQ-1" value="如何规划pics小组和&lt;span style=&quot;background-color: initial;&quot;&gt;审批链&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="490" width="179" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
