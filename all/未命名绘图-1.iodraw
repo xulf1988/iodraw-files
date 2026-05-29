@@ -84,8 +84,13 @@
         <mxCell id="p9VnJ7BZUf3yhAYPfaVG-6" value="隔间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="p9VnJ7BZUf3yhAYPfaVG-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p9VnJ7BZUf3yhAYPfaVG-7" value="小组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p9VnJ7BZUf3yhAYPfaVG-8" value="gc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="640" width="120" height="60" as="geometry" />
