@@ -28,13 +28,13 @@
         <mxCell id="eR6AJnE_73tSMf58k51t-10" value="小组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-150" y="360" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eR6AJnE_73tSMf58k51t-11" value="team1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eR6AJnE_73tSMf58k51t-11" value="team2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eR6AJnE_73tSMf58k51t-12" value="team1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="345" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eR6AJnE_73tSMf58k51t-13" value="team1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eR6AJnE_73tSMf58k51t-13" value="team3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="345" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
