@@ -75,9 +75,6 @@
         <mxCell id="eR6AJnE_73tSMf58k51t-34" value="role" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="880" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="p9VnJ7BZUf3yhAYPfaVG-3" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -93,7 +90,7 @@
         <mxCell id="p9VnJ7BZUf3yhAYPfaVG-9" value="sc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-10" value="菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
