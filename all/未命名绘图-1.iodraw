@@ -86,13 +86,13 @@
           <mxGeometry x="640" y="880" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p9VnJ7BZUf3yhAYPfaVG-3" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-4" value="小组" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="920" y="880" width="80" height="80" as="geometry" />
+        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-6" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="740" width="120" height="80" as="geometry" />
+        <mxCell id="p9VnJ7BZUf3yhAYPfaVG-7" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
